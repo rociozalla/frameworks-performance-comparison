@@ -1,4 +1,4 @@
-# Spring Boot
+# Spring Boot arithmetic API
 
 ## Spring Boot 2.7.0 Documentation
 - [Overview](<https://spring.io/projects/spring-boot> "Overview")
